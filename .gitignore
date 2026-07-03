@@ -5,3 +5,4 @@ passwords.txt
 **/.DS_Store
 node_modules/
 !important.log
+about.html
