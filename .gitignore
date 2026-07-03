@@ -1,0 +1,7 @@
+db.sql
+passwords.txt
+*.log
+.DS_Store
+**/.DS_Store
+node_modules/
+!important.log
