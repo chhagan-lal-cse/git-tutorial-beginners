@@ -5,3 +5,5 @@ The best ways are:
 - sleep
 - code
 - Repeat
+
+Thank you!
